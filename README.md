@@ -12,5 +12,5 @@ Free landing page template built on top of TailwindCSS
 ## Getting Started
 The template is just a HTML file using a CDN service
 
-`git clone https://github.com/amil3955/skilline_landing-page_tailwind-css.git`
+`git clone https://github.com/amil3955/tailwindcss-landingpage.git`
 
